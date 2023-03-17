@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/phroute/phroute" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/eftec/bladeone" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/illuminate/bus" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/composer" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/illuminate/pipeline" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/illuminate/conditionable" />
+      <path value="$PROJECT_DIR$/assignment_php2/vendor/nesbot/carbon" />
+    </include_path>
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
